@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+//Components
+import Header from "./componenents/Header";
+import Images from "./componenents/MainGrid";
+import Carousel from "./componenents/Carousel";
+
+//Styles
+import styled from "styled-components";
+import GlobalStyle from "./GlobalStyle";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div className="App">
+			<GlobalStyle />
+			<Header />
+			<Images />
+			<CarouselStyled>
+				<Carousel />
+			</CarouselStyled>
+		</div>
+	);
 }
 
+//Styles
+const CarouselStyled = styled.div`
+	display: none;
+	opacity: 0;
+	//Responsive
+	@media only screen and (max-width: 760px) {
+		display: flex;
+		opacity: 1;
+		padding-bottom: 100px;
+	}
+`;
 export default App;
