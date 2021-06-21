@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/Explorez-la-Provence/static/js/main.1bcba001.chunk.js",
+    "main.js.map": "/Explorez-la-Provence/static/js/main.1bcba001.chunk.js.map",
+    "runtime-main.js": "/Explorez-la-Provence/static/js/runtime-main.514f55ac.js",
+    "runtime-main.js.map": "/Explorez-la-Provence/static/js/runtime-main.514f55ac.js.map",
+    "static/css/2.0ccb862f.chunk.css": "/Explorez-la-Provence/static/css/2.0ccb862f.chunk.css",
+    "static/js/2.abc57449.chunk.js": "/Explorez-la-Provence/static/js/2.abc57449.chunk.js",
+    "static/js/2.abc57449.chunk.js.map": "/Explorez-la-Provence/static/js/2.abc57449.chunk.js.map",
+    "static/js/3.a937002c.chunk.js": "/Explorez-la-Provence/static/js/3.a937002c.chunk.js",
+    "static/js/3.a937002c.chunk.js.map": "/Explorez-la-Provence/static/js/3.a937002c.chunk.js.map",
+    "index.html": "/Explorez-la-Provence/index.html",
+    "static/css/2.0ccb862f.chunk.css.map": "/Explorez-la-Provence/static/css/2.0ccb862f.chunk.css.map",
+    "static/js/2.abc57449.chunk.js.LICENSE.txt": "/Explorez-la-Provence/static/js/2.abc57449.chunk.js.LICENSE.txt",
+    "static/media/aix.f49237c8.png": "/Explorez-la-Provence/static/media/aix.f49237c8.png",
+    "static/media/dome.794c0ed4.png": "/Explorez-la-Provence/static/media/dome.794c0ed4.png",
+    "static/media/fair-love.10e40b89.ttf": "/Explorez-la-Provence/static/media/fair-love.10e40b89.ttf",
+    "static/media/fayence.def7a59a.png": "/Explorez-la-Provence/static/media/fayence.def7a59a.png",
+    "static/media/luberon.866bf75b.png": "/Explorez-la-Provence/static/media/luberon.866bf75b.png",
+    "static/media/mont-ventoux.f6892db1.png": "/Explorez-la-Provence/static/media/mont-ventoux.f6892db1.png",
+    "static/media/saint-tropez.de19c434.png": "/Explorez-la-Provence/static/media/saint-tropez.de19c434.png",
+    "static/media/usez.17e0296b.png": "/Explorez-la-Provence/static/media/usez.17e0296b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.514f55ac.js",
+    "static/css/2.0ccb862f.chunk.css",
+    "static/js/2.abc57449.chunk.js",
+    "static/js/main.1bcba001.chunk.js"
+  ]
+}
